@@ -1,0 +1,10 @@
+const emailOrPasswordEmptyDialog = 'Please fill both email and password field';
+const emailOrPasswordEmptyDescription = 'You seem to have forgotten to enter either email or password, or both. Please enter both of the fields.';
+const loginErrorDialogTitle = 'Login error';
+const loginErrorDialogContent = 'Invalid email/password combination. Please try again with valid credentials.';
+const pleaseWait = 'Please wait...';
+const enterYourPasswordHere = 'Enter your password here...';
+const enterYourEmailHere = 'Enter your email here...';
+const ok = 'OK';
+const login = 'Log in';
+const homePage = 'Home Page';
