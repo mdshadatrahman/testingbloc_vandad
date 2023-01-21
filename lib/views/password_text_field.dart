@@ -13,7 +13,7 @@ class PasswordTextField extends StatelessWidget {
     return TextField(
       controller: passwordController,
       obscureText: true,
-      obscuringCharacter: '🔘',
+      obscuringCharacter: 'x',
       decoration: const InputDecoration(
         hintText: enterYourPasswordHere,
       ),
